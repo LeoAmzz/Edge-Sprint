@@ -176,7 +176,6 @@ void loop() {
         noteDuration = (wholenote) / abs(divider);
         noteDuration *= 1.5;
       }
-
       tone(buzzerPin, melody[thisNote], noteDuration * 0.9);
       delay(noteDuration);
       noTone(buzzerPin);
