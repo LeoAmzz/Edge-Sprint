@@ -5,10 +5,10 @@
 # Descrição:
 O projeto apresenta uma solução inovadora para tornar os exames de sangue pediátricos mais reconfortantes, envolvendo o uso de óculos de realidade virtual e um sistema baseado em Arduino. Enquanto as crianças exploram um mundo imaginário dentro da realidade virtual, o Arduino monitora seus sinais vitais (nesse projeto simulamos um sensor de sinais vitais atraves de um potenciometro) e ativa estímulos calmantes, como luzes suaves e música tranquilizadora, caso detecte sinais de ansiedade. Essa abordagem visa proporcionar uma experiência mais positiva e menos estressante para as crianças durante os procedimentos médicos, promovendo um ambiente hospitalar mais acolhedor e reconfortante.
 
-#Link Wokwi:
+# Link Wokwi:
 https://wokwi.com/projects/394192185544489985
 
-#Código
+# Código
 
 #define NOTE_B0  31
 #define NOTE_C1  33
